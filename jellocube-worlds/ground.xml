@@ -1,0 +1,19 @@
+<world>
+  <materials>
+    <material name="dirt" density="0" friction="0.9" restitution="0.4" cr="0.8" cg="0.6" cb="0.4" />
+  </materials>
+  <bodies>
+<<<<<<< HEAD
+
+    <sphere r="0.3"  >
+      
+      <bodymaterial name="dark gray" />
+    </sphere>
+
+=======
+>>>>>>> 851056092e8f9d57fee634149c911d4cc0bbfbf9
+    <ground>
+      <bodymaterial name="dirt" />
+    </ground>
+  </bodies>
+</world>
