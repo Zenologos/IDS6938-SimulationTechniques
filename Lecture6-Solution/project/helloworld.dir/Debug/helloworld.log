@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(84): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(85): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(86): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(87): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(98): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(99): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(121): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(162): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(176): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\main.cpp(189): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  helloworld.vcxproj -> C:\Users\Corey\Desktop\hello\Homework1\IDS6938-SimulationTechniques\Lecture6-Solution\project\Debug\helloworld.exe
